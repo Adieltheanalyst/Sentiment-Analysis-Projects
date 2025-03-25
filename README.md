@@ -25,4 +25,4 @@ This repository contains three sentiment analysis projects using different NLP t
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Sentiment-Analysis-Projects.git
+   git clone https://github.com/Adieltheanalyst/Sentiment-Analysis-Projects.git
